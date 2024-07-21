@@ -1,3 +1,3 @@
 # FoodApe
 Under Development
-Food app for VIT-AP university
+food app for VIT-AP university
